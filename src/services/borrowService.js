@@ -19,7 +19,7 @@ export async function borrowBookService(userId, bookId) {
 
   const user = await User.findById(userId);
   if (user?.email) {
-    await sendEmail("24pathaks_1@rbunagpur.in", "Book Issued", "You borrowed a book");
+    await sendEmail(user.email, "Book Issued", "You borrowed a book");
   }
 
   broadcast({ type: "BOOK_BORROWED", bookId });
