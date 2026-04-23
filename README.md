@@ -491,7 +491,7 @@ Error responses include a JSON error message explaining the issue.
 
 ## License
 
-This project is part of the 4th Semester Honors Assignment at RBU (Rajasthan Bhagwati University).
+This project is part of the 4th Semester Honors Assignment at RBU.
 
 ---
 
