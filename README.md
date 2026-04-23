@@ -479,28 +479,6 @@ Error responses include a JSON error message explaining the issue.
 
 ---
 
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
----
-
-## License
-
-This project is part of the 4th Semester Honors Assignment at RBU.
-
----
-
-## Support
-
-For issues, questions, or suggestions, please open an issue in the project repository or contact the development team.
-
----
-
 ## Acknowledgments
 
 - Built as part of the Assignment-2 for the 4th Semester Honors Program
